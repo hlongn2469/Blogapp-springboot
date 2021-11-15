@@ -24,7 +24,7 @@
 - [ ] Repository: Data persitence logic which interacts with the database
 
 ## Rest API Design (Posts)
-![image](https://user-images.githubusercontent.com/78957509/141709123-903670e7-ca3d-4e0f-8f40-ad5412aa7bde.png)
+![image](https://user-images.githubusercontent.com/78957509/141715495-9a3a25db-b1dd-4af3-9308-1cf5aa1a001e.png)
 
 ## Rest API Design (Comments)
 ![image](https://user-images.githubusercontent.com/78957509/141709204-e46f1074-e85d-44ed-919b-71ec4de8fed0.png)
